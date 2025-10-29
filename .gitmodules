@@ -1,0 +1,9 @@
+[submodule "see-sharp"]
+	path = see-sharp
+	url = https://github.com/andrearcaina/see-sharp
+[submodule "cppuccino"]
+	path = cppuccino
+	url = https://github.com/andrearcaina/cppuccino.git
+[submodule "clank"]
+	path = clank
+	url = https://github.com/andrearcaina/clank
